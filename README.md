@@ -24,7 +24,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://codepen.io/https://codepen.io/jackphumphrey" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/jackphumphrey" height="30" width="40" />
+    <img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg](https://www.flaticon.com/free-icon/codepen_7083977?term=codepen&page=1&position=7&page=1&position=7&related_id=7083977&origin=search)" alt="https://codepen.io/jackphumphrey" height="30" width="40" />
   </a>
   <a href="https://dev.to/jackphumphrey" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jackphumphrey" height="30" width="40" />
