@@ -2,10 +2,10 @@
 <h4 align="center">You start a question, and it's like starting a stone. You sit quietly on the top of a hill; and away the stone goes, starting others...</h4>
 <br />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jackphumphrey&label=Profile%20views&color=0e75b6&style=flat" alt="jackphumphrey" />
   <a href="https://twitter.com/jack_p_humphrey" target="blank">
       <img src="https://img.shields.io/twitter/follow/jack_p_humphrey?logo=twitter&style=for-the-badge" alt="jack_p_humphrey" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=jackphumphrey&label=Profile%20views&color=0e75b6&style=flat" alt="jackphumphrey" />
 </p>
 <br />
 <h3>
@@ -14,11 +14,10 @@
     @jackphumphrey
   </a>
 </h3>
-<br />
 <h3>
   💬 ask me about the
   <a href="http://vanilla-js.com" target="blank">
-    **vanillaJS**
+    vanillaJS
   </a>
   framework
 </h3>
