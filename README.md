@@ -8,9 +8,20 @@
   </a>
 </p>
 <br />
-- 📝  [medium@jackphumphrey](https://medium.com/@jackphumphrey)
-
-- 💬 Ask me about **the vanillaJS framework**
+<h3>
+  📝
+  <a href="https://medium.com/@jackphumphrey" target="blank">
+    @jackphumphrey
+  </a>
+</h3>
+<br />
+<h3>
+  💬 ask me about the
+  <a href="http://vanilla-js.com" target="blank">
+    **vanillaJS**
+  </a>
+  framework
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
