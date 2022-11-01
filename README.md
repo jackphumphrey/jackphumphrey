@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack Humphrey</h1>
-<h3 align="center">You start a question, and it's like starting a stone. You sit quietly on the top of a hill; and away the stone goes, starting others...</h3>
+<h3 align="center" width="50%">You start a question, and it's like starting a stone. You sit quietly on the top of a hill; and away the stone goes, starting others...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackphumphrey&label=Profile%20views&color=0e75b6&style=flat" alt="jackphumphrey" /> </p>
 
