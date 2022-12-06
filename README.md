@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jack Humphrey</h1>
 <h4 align="center">You start a question, and it's like starting a stone. You sit quietly on the top of a hill; and away the stone goes, starting others...</h4>
 <br />
-<p align="center">
-  <a href="https://twitter.com/jack_p_humphrey" target="blank">
-      <img src="https://img.shields.io/twitter/follow/jack_p_humphrey?logo=twitter&style=for-the-badge" alt="jack_p_humphrey" />
-  </a>
-</p>
-<br />
 <h3>
   📝
   <a href="https://medium.com/@jackphumphrey" target="blank">
@@ -14,7 +8,7 @@
   </a>
 </h3>
 <h3>
-  💬 ask me about the
+  💬 ask me about
   <a href="http://vanilla-js.com" target="blank">
     vanillaJS
   </a>
